@@ -1,5 +1,4 @@
-# Template: Python based Browser automations for getting bios version
-
+#this is for getting bios name from computers msinfo and googling it for yours. this can be used only in 1080p monitors because of the coodinates.
 This template leverages the new python open-source structure [robo](https://github.com/robocorp/robo), the [libraries](https://github.com/robocorp/robo#libraries) from to same project as well.
 
 The template provides you with the basic structure of a Python project: logging out of the box and controlling your tasks without fiddling with the base Python stuff. The environment contains the most used libraries, so you do not have to start thinking about those right away. 
